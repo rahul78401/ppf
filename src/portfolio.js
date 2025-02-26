@@ -20,10 +20,10 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Rahul patel",
-  title: "Hi all, I'm Rahul",
+  username: "Saurav Patel",
+  title: "Hi all, I'm Saurav",
   subTitle: emoji(
-    "A passionate Full Software Developer 🚀 having an experience of building Web development with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks."
+    "A passionate Full stack Software Developer 🚀 having an experience of building Web development with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1LOpidegHHxLUhMxffq3hMeqmfkptAJF-/view?usp=sharing", // Set to empty to hide the button
@@ -279,11 +279,11 @@ const achievementSection = {
       footerLink: []
     },
     {
-      title: "Google Assistant Action",
+      title: "Hackathon",
       subtitle:
         "Participated as a finalist in an inter-college hackathon, developing innovative solutions under tight deadlines and collaborating with a team to build a functional prototype.",
       image: require("./assets/images/hackthon.png"),
-      imageAlt: "Google Assistant Action Logo",
+      imageAlt: "Hackathon Logo",
       footerLink: []
     },
 
